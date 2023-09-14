@@ -1,1 +1,3 @@
-files: []
+files:
+  - source: src/generated/resources/assets/bronze_age/lang/en_us.json
+    translation: src/generated/resources/assets/bronze_age/lang/ja_jp.json
